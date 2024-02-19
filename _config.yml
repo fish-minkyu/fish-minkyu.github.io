@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author:  Minkyu Eo # add your name
 author-img: title.jpg # add your photo
-about-author: Developer Minkyu Eo \n I can do Java, Javascript. # add description
+about-author: Backend Developer Minkyu Eo. I can do Java, Javascript. And, I hate to do coding. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: fish-minkyu # add your Github handle
